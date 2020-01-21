@@ -14,7 +14,7 @@ __Note: Dapr is currently under community development in alpha phase. Dapr is no
 
 ![Dapr Conceptual Model](/img/dapr_conceptual_model.jpg)
 
-## Goals
+## Goals (Main goals)
 
 - Enable developers using *any* language or framework to write distributed applications
 - Solve the hard problems developers face building microservice applications by providing best practice building blocks
